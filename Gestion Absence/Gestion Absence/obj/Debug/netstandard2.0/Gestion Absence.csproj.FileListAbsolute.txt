@@ -1,0 +1,14 @@
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\bin\Debug\netstandard2.0\Gestion Absence.deps.json
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\bin\Debug\netstandard2.0\Gestion Absence.dll
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\bin\Debug\netstandard2.0\ref\Gestion Absence.dll
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\bin\Debug\netstandard2.0\Gestion Absence.pdb
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\Gestion Absence.csprojAssemblyReference.cache
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\Gestion Absence.AssemblyInfoInputs.cache
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\Gestion Absence.AssemblyInfo.cs
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\Gestion Absence.csproj.CoreCompileInputs.cache
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\Gestion Absence.dll
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\ref\Gestion Absence.dll
+D:\ENSA-4-eme-annee\PROJECT\Gestion Absence\Gestion Absence\Gestion Absence\obj\Debug\netstandard2.0\Gestion Absence.pdb
